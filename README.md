@@ -1,4 +1,4 @@
-# 📊 Data Analyst Portfolio – Nikita Bhise
+# 📊 Data Analysis Portfolio – Nikita Bhise
 
 Hi! I'm **Nikita Bhise**, an aspiring Data Analyst who enjoys turning raw data into meaningful business insights.  
 This portfolio includes hands-on projects using **Excel, Tableau, and SQL**.
