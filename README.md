@@ -15,7 +15,7 @@ This portfolio includes hands-on projects using **Excel, Tableau, and SQL**.
 - Monthly and regional **sales trends**
 - Built an **interactive dashboard** using slicers and pivot charts
 
-📁 `Sales_Analysis_Dashboard.xlsx`
+📁 `Sales-Analysis-Excel-Dashboard.xlsx`
 
 ---
 
@@ -30,7 +30,7 @@ This portfolio includes hands-on projects using **Excel, Tableau, and SQL**.
 - KPI cards for **Total Sales, Profit, and Profit Ratio**
 - Interactive filters for dynamic analysis
 
-📁 `Sales_Profitability_Tableau_Dashboard.twbx`
+📁 `Sales-Profitability-Tableau-Dashboard.twbx`
 
 ---
 
