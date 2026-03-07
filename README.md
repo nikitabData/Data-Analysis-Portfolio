@@ -23,6 +23,7 @@ This portfolio includes hands-on projects using **Excel, Tableau, SQL and Power 
 
 **Tools:** Excel (Pivot Tables,
 Slicers, Charts)
+
 **Description:**an Interactive HR Attrition Analysis Dashboard built using Excel to analyze employee turnover and uncover key factors influencing attrition.
 
 - Visualized Highest attrition observed in Research & Development
