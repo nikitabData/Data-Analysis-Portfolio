@@ -19,8 +19,7 @@ This portfolio includes hands-on projects using **Excel, Tableau, SQL and Power 
 📁 nikitabData/Sales_Analysis_Excel-_Dashboard-
 
 ---
-
-##🔹HR Attrition Analysis Dashboard | (Excel)
+## 🔷 HR Attrition Analysis Dashboard (Excel)
 
 **Tools:** Excel (Pivot Tables,
 Slicers, Charts)
@@ -63,7 +62,7 @@ Slicers, Charts)
 **SQL Skills:**  
 `SELECT`, `WHERE`, `GROUP BY`, `ORDER BY`, `JOIN`, Subqueries, Aggregate Functions
 
-📁 `Customer_Orders_Revenue_Analysis.sql`
+📁 
 
 ---
 
