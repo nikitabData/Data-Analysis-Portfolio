@@ -9,6 +9,7 @@ This portfolio includes hands-on projects using **Excel, Tableau, SQL and Power 
 ## 🔷 Sales Analysis Dashboard (Excel)
 
 **Tools:** Excel (Pivot Tables, Charts, Slicers)  
+
 **Description:** An interactive dashboard built to analyze sales performance, product trends, and overall profitability.
 
 - Analyzed **sales, profit, and quantity**
@@ -24,7 +25,7 @@ This portfolio includes hands-on projects using **Excel, Tableau, SQL and Power 
 **Tools:** Excel (Pivot Tables,
 Slicers, Charts)
 
-**Description:**an Interactive HR Attrition Analysis Dashboard built using Excel to analyze employee turnover and uncover key factors influencing attrition.
+Description:an Interactive HR Attrition Analysis Dashboard built using Excel to analyze employee turnover and uncover key factors influencing attrition.
 
 - Visualized Highest attrition observed in Research & Development
 - Analyzed Employees working overtime show higher attrition rate
@@ -38,6 +39,7 @@ Slicers, Charts)
 ## 🔷 Sales & Profitability Dashboard (Tableau)
 
 **Tools:** Tableau  
+
 **Description:** A visual dashboard designed to monitor sales and profit performance across regions and product categories.
 
 - Visualized **sales vs profit performance**
@@ -53,6 +55,7 @@ Slicers, Charts)
 ## 🔷 Customer Orders & Revenue Analysis (SQL)
 
 **Tools:** SQL (MySQL / PostgreSQL)  
+
 **Description:** SQL-based data analysis project focused on customer orders, revenue trends, and purchasing behavior.
 
 - Analyzed **revenue and order volume**
