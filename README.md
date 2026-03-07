@@ -16,8 +16,23 @@ This portfolio includes hands-on projects using **Excel, Tableau, SQL and Power 
 - Monthly and regional **sales trends**
 - Built an **interactive dashboard** using slicers and pivot charts
 
-📁 `Sales-Analysis-Excel-Dashboard.xlsx`
+📁 nikitabData/Sales_Analysis_Excel-_Dashboard-
 
+---
+
+##🔹HR Attrition Analysis Dashboard | (Excel)
+
+**Tools:** Excel (Pivot Tables,
+Slicers, Charts)
+**Description:**an Interactive HR Attrition Analysis Dashboard built using Excel to analyze employee turnover and uncover key factors influencing attrition.
+
+- Visualized Highest attrition observed in Research & Development
+- Analyzed Employees working overtime show higher attrition rate
+- Single employees have comparatively higher attrition
+-  Most attrition occurs within the first 0–3 years
+
+ 📁nikitabData/HR-Attrition-Analysis-Excel-Dashboard
+ 
 ---
 
 ## 🔷 Sales & Profitability Dashboard (Tableau)
@@ -31,7 +46,7 @@ This portfolio includes hands-on projects using **Excel, Tableau, SQL and Power 
 - KPI cards for **Total Sales, Profit, and Profit Ratio**
 - Interactive filters for dynamic analysis
 
-📁 `Sales-Profitability-Tableau-Dashboard.twbx`
+📁 nikitabData/Sales-Profitability-Tableau-Dashboard-
 
 ---
 
@@ -55,7 +70,7 @@ This portfolio includes hands-on projects using **Excel, Tableau, SQL and Power 
 ## 🚀 Skills Demonstrated
 
 Data Cleaning • Data Visualization • Dashboard Design • Business Insights  
-Excel Analytics • Tableau • SQL
+Excel Analytics • Tableau • SQL • Power BI 
 
 
 
