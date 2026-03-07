@@ -25,7 +25,7 @@ This portfolio includes hands-on projects using **Excel, Tableau, SQL and Power 
 **Tools:** Excel (Pivot Tables,
 Slicers, Charts)
 
-Description:an Interactive HR Attrition Analysis Dashboard built using Excel to analyze employee turnover and uncover key factors influencing attrition.
+Description:An Interactive HR Attrition Analysis Dashboard built using Excel to analyze employee turnover and uncover key factors influencing attrition.
 
 - Visualized Highest attrition observed in Research & Development
 - Analyzed Employees working overtime show higher attrition rate
@@ -40,7 +40,7 @@ Description:an Interactive HR Attrition Analysis Dashboard built using Excel to 
 
 **Tools:** Tableau  
 
-**Description:** A visual dashboard designed to monitor sales and profit performance across regions and product categories.
+**Description:** An interactive dashboard designed to monitor sales and profit performance across regions and product categories.
 
 - Visualized **sales vs profit performance**
 - Region and category-wise **profitability analysis**
